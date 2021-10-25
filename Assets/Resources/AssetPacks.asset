@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ba35831a60740d98d650001ecff786c, type: 3}
+  m_Name: AssetPacks
+  m_EditorClassIdentifier: 
+  packs:
+  - defaultlocalgroup_scenes_all_6ced7d1dab69576ddd6cb51583d8e352
+  - defaultlocalgroup_unitybuiltinshaders_1d15d5962dcf2152cb173aca369188c1
+  - level2_scenes_all_297ba9bfc27825f9d3b0042499c05995
+  - level3_assets_all_5332d6e0cec9abee2f932fffe9333998
+  - level3_scenes_all_30e9eec1f15469e56794c6290acb8586
